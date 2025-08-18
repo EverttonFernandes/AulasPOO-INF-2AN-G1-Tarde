@@ -1,5 +1,21 @@
 
-=
-src/Main.java,9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138
->
-src/Carro.java,4/5/45eec078e283c1e800cca8ac5b757b6ee10fc2b8
+e
+5src/Aula110725ResolucaoSimulado/exercicio7/Motor.java,7/f/7fee342982460d45d6f8b1ca1fcb82f512f4a1ff
+d
+4src/Aula110725ResolucaoSimulado/exercicio5/Main.java,5/c/5cb5fce8a9be6a02b615de79778b06638e09e655
+d
+4src/Aula110725ResolucaoSimulado/exercicio7/Main.java,7/3/73e5bee4a5e5fc299c04b6ad70182e162a1fbb6e
+e
+5src/Aula110725ResolucaoSimulado/exercicio4/Carro.java,3/d/3d11b17e9e568fa6b4c73d658ece7fb94307bd6b
+d
+4src/Aula110725ResolucaoSimulado/exercicio3/Main.java,f/7/f76818cbab9e98b9d016278bd85c6ba7c9f73c83
+e
+5src/Aula110725ResolucaoSimulado/exercicio7/Carro.java,c/b/cb7fa98018e4ea2df42fbd6c6528f653bed8fca4
+d
+4src/Aula110725ResolucaoSimulado/exercicio6/Main.java,1/d/1d70fb9f9bb2faee07a2fb49a5d7436acfce5456
+g
+7src/Aula110725ResolucaoSimulado/exercicio5/Celular.java,4/6/46d1c30e4179a97934774c164e4e808ad7a62394
+d
+4src/Aula110725ResolucaoSimulado/exercicio4/Main.java,c/4/c47649df243755481653a0d7c4edf854cd5d6ae3
+e
+5src/Aula110725ResolucaoSimulado/exercicio6/Aluno.java,5/f/5fc8ead3167002a5b2d92e5bb701a424fea621ce

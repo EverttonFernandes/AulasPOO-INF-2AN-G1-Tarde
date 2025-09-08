@@ -1,4 +1,4 @@
-package Semestre2Ano2025.Aula01.RelacionamentoObjetosSemLista;
+package Semestre2Ano2025.Aula01Pratica.RelacionamentoObjetosSemLista;
 
 public class LaboratorioDeInformatica {
     private String nomeDoLaboratorio;

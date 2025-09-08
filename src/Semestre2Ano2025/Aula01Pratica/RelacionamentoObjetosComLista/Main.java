@@ -1,4 +1,4 @@
-package Semestre2Ano2025.Aula01.RelacionamentoObjetosComLista;
+package Semestre2Ano2025.Aula01Pratica.RelacionamentoObjetosComLista;
 
 public class Main {
     public static void main(String[] args) {

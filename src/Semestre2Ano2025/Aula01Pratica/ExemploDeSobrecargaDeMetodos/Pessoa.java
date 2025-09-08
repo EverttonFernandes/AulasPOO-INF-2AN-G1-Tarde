@@ -1,4 +1,4 @@
-package Semestre2Ano2025.Aula01.ExemploDeSobrecargaDeMetodos;
+package Semestre2Ano2025.Aula01Pratica.ExemploDeSobrecargaDeMetodos;
 
 public class Pessoa {
     private String nome;
